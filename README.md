@@ -20,11 +20,14 @@ A simple, beautiful, and animated Weather Detector web application built using *
 
 ## 📁 Project Structure
 
-weather-forecast/
-├── index.html
-├── style.css
-├── script.js
-└── README.md
+```
+currency-converter/
+│
+├── index.html       # HTML structure
+├── style.css        # Styling and layout
+├── script.js        # JavaScript logic & API
+└── README.md        # Project information
+```
 
 
 ## 🔧 Technologies Used
